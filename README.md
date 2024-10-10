@@ -32,7 +32,7 @@ Bem-vindo ao **CodeCraft**! Este repositório é um espaço dedicado a pequenos 
 
 14. **Conversão de Temperatura (`temp.py`)**: Um programa que permite ao usuário converter temperaturas entre Celsius e Fahrenheit, com uma interface interativa para escolher o tipo de conversão.
 
-15. **Dados de uma Pessoa ('dados.py')**: Através de entradas de texto, ele permite que o usuário forneça essas informações e, em seguida, exibe uma mensagem amigável com os dados informados.
+15. **Dados de uma Pessoa (`dados.py`)**: Através de entradas de texto, ele permite que o usuário forneça essas informações e, em seguida, exibe uma mensagem amigável com os dados informados.
 
    ### Funcionamento:
    - O usuário pode escolher entre duas opções:
