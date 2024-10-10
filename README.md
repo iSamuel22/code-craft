@@ -34,12 +34,6 @@ Bem-vindo ao **CodeCraft**! Este repositório é um espaço dedicado a pequenos 
 
 15. **Dados de uma Pessoa (`dados.py`)**: Através de entradas de texto, ele permite que o usuário forneça essas informações e, em seguida, exibe uma mensagem amigável com os dados informados.
 
-   ### Funcionamento:
-   - O usuário pode escolher entre duas opções:
-     - **Celsius para Fahrenheit**: Insere uma temperatura em Celsius e o programa calcula e exibe a temperatura equivalente em Fahrenheit.
-     - **Fahrenheit para Celsius**: Insere uma temperatura em Fahrenheit e o programa calcula e exibe a temperatura equivalente em Celsius.
-   - Mensagens de erro são exibidas para entradas inválidas.
-
 ## Como Usar 🔧
 
 Para executar os projetos, siga os passos abaixo:
