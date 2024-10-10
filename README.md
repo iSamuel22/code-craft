@@ -40,12 +40,6 @@ Bem-vindo ao **CodeCraft**! Este repositório é um espaço dedicado a pequenos 
      - **Fahrenheit para Celsius**: Insere uma temperatura em Fahrenheit e o programa calcula e exibe a temperatura equivalente em Celsius.
    - Mensagens de erro são exibidas para entradas inválidas.
 
-15. **Coleta de Informações Pessoais (`coleta_informacoes.py`)** 📋: Um programa que solicita ao usuário seu nome e a data de nascimento, e exibe essas informações de maneira amigável.
-
-   ### Funcionamento:
-   - O programa solicita o nome do usuário e a data de nascimento (dia, mês e ano).
-   - Após a coleta das informações, o programa imprime uma mensagem personalizada com a data de nascimento.
-
 ## Como Usar 🔧
 
 Para executar os projetos, siga os passos abaixo:
