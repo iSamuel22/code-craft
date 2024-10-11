@@ -50,8 +50,8 @@ Para executar os projetos, siga os passos abaixo:
 3. **Execute os projetos**:
    Navegue até o diretório do projeto desejado e execute o arquivo Python correspondente. Por exemplo:
    ```bash
-   cd adivinhacao
-   python adivinhacao.py
+   cd (arquivo)
+   python (arquivo).py
    ```
 
 ## Contribuições 🤝
