@@ -1,4 +1,4 @@
-# CodeCraft 🚀
+# 🚀 CodeCraft
 
 Bem-vindo ao **CodeCraft**! Este repositório é um espaço dedicado a pequenos projetos desenvolvidos em Python, onde você pode explorar diferentes conceitos de programação de forma divertida e interativa.
 
